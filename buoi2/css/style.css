@@ -70,9 +70,6 @@ h1{
 ul{
     list-style: none;
 }
-ul li{
-    padding-bottom: 8px;
-}
 a{
     text-decoration: none;
     color: rgb(0, 0, 0);
