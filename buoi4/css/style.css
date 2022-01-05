@@ -1,0 +1,95 @@
+*{
+    font-family: 'Dancing Script', cursive;
+}
+.nav1{
+    background-color: rgb(255, 0, 0);
+    color: brown;
+}
+.pd-15{
+    padding: 0 15px;
+}
+.pd-5{
+    padding: 5px;
+}
+.item-slider{
+    width: 80%;
+}
+.el-center{
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+.pd-25{
+    padding: 25px;
+}
+.play-item{
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+img:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
+.item img{
+    width: 100%;
+}
+.text{
+    text-align: justify;
+    min-height: 150px;
+}
+.btn-view{
+    display: grid;
+}
+.overlay{
+    position: fixed;  
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: none;
+}
+.main__mobile{
+    position: fixed;
+    width: 80%;
+    height: 80%;
+    background-color: #00ffc8;
+    left: 10%;
+    top: 10%;
+    transform: translateY(-180%);
+    opacity: 0;
+    transition: transform linear 0.2s, opacity linear 0.2s;
+}
+.main1{
+    width: 98%;
+    height: 98%;
+    top: 1%;
+    left: 1%;
+    background-color: white;
+    position: absolute  ;
+    overflow-y: scroll;
+}
+
+.nav__input:checked ~ .overlay
+{
+    display: block;
+}
+.nav__input:checked~.main__mobile{
+    transform: translateY(0);
+    opacity: 1;
+}
+.footer{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.contact-mail a,
+.contact-mail i{
+    font-size: 20px;
+}
+
+@media (max-width:996px) {
+    .pd-25{
+        padding: 5px ;
+    }
+}
