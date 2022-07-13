@@ -1,7 +1,0 @@
-C:\Users\Admin\Downloads\vc\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAccountProfile.resources
-C:\Users\Admin\Downloads\vc\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAdmin.resources
-C:\Users\Admin\Downloads\vc\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fLogin.resources
-C:\Users\Admin\Downloads\vc\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fTableManager.resources
-C:\Users\Admin\Downloads\vc\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
-C:\Users\Admin\Downloads\vc\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.cache
-C:\Users\Admin\Downloads\vc\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
